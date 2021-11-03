@@ -1,0 +1,19 @@
+body {
+    background: url(images/bg.png);
+}
+
+nav {
+    background-color: #2a3132;
+    padding: 1%;
+}
+
+#section-about {
+    padding: 10px 30px;
+}
+
+#section-project {
+    padding: 10px 30px;
+}
+#section-contact {
+    padding: 10px 30px;
+}
